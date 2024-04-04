@@ -1,2 +1,3 @@
 # Zoey_igloo
-Personal project
+Personal project done by Zoey
+Including Python, Java, C, etc.
