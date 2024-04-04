@@ -1,7 +1,4 @@
 # K-SEA Shell
-
-## Name: Siyu Ai
-
 ## Description:
 K-SEA Shell is a simple shell program written in C. It provides a basic command-line interface where users can execute commands, navigate directories, and play a game implemented within the shell.
 
